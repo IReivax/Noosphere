@@ -30,6 +30,7 @@
                 <time datetime="2014-07-20 2000" class="ideePost">
                   <span class="day">28</span>
                   <span class="month">Vote</span>
+                  <a class="btn btn-default btn-xs "><span class="glyphicon glyphicon-chevron-up"></span></a><a class="btn btn-default btn-xs "><span class="glyphicon glyphicon-chevron-down"></span></a>
                 </time>
                 <a href="#aboutModal" data-toggle="modal" data-target="#profilModal">
                   <img alt="avatar" title="Nom Prenom" src="http://i1.wp.com/www.techrepublic.com/bundles/techrepubliccore/images/icons/standard/icon-user-default.png" >
@@ -42,7 +43,7 @@
                   <ul>
                     <li style="width:33%;"><a href="#website"><span class="fa fa-globe"></span> Website</a></li>
                     <li style="width:34%;">3 <span class="fa fa-comments"></span></li>
-                    <li style="width:33%;">103 <span class="fa fa-star"></span></li>
+                    <li style="width:33%;">32 <span class="fa fa-star"></span></li>
                   </ul>
                 </div>
                 <div class="social">
